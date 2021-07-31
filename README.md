@@ -4,4 +4,4 @@ Contains all of the students' names
 ### Contributors
 Inês Martins
 Isabel Costa
-Margarida Melo, Setúbal
+Margarida Melo
