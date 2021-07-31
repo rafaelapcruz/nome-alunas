@@ -5,4 +5,3 @@ Contains all of the students' names
 Inês Martins
 Isabel Costa
 Margarida Melo, Setúbal
-
